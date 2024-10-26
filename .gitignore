@@ -2,6 +2,9 @@
 /uploads
 /upgrade
 
+#
+/cache
+
 # ignore these plugins
 # /plugins/hello.php
 
